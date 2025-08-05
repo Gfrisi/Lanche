@@ -1,4 +1,6 @@
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+
+
 Codigo | Especificação | Preço
 1       Cachorro Quente  R$ 4.00
 2       X-salada         R$ 4.50
