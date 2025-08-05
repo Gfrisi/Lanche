@@ -1,4 +1,5 @@
-Com base na tabela anexada, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+O programa deve ler o código de um item e a quantidade deste item. A seguir, calcular e mostrar o valor da conta a pagar.
+Tabela anexada no arquivo
 
 Entrada
 O arquivo de entrada contém dois valores inteiros correspondentes ao código e à quantidade de um item conforme a tabela.
